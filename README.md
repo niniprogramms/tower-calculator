@@ -19,4 +19,4 @@ Running Tests
 
 So far, our application doesn't do much. Try to run it in terminal with the command:
 
-php TowerCalculator.php `any number`
+``` php TowerCalculator.php 'any number' ```
